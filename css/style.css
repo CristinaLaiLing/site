@@ -20,6 +20,14 @@ body {
   }
 }
 
+#btn btn-default {
+	color: black;
+}
+
+h3{
+	color:black;
+	font-size: 40px;
+}
 
 /* Inicio do meu CSS */
 
